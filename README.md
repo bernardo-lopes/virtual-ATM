@@ -1,1 +1,1 @@
-Project I did when learning **C++** simulating an ATM machine.
+Terminal interface simulating an ATM that I did when learning **C++**.
